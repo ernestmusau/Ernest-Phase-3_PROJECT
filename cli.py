@@ -5,12 +5,12 @@ class CLI:
         self.team_manager = TeamManager()
 
     def display_menu(self):
-        print("Sports Team Manager")
+        print("====Sports Team Manager====")
         print("1. Create a new team")
         print("2. View all teams")
-        print("3. Search for a team")
-        print("4. Update a team")
-        print("5. Delete a team")
+        print("3. Update an existing team")
+        print("4. Delete a team")
+        print("5. Search for a team")
         print("6. Exit")
 
     def run(self):
@@ -29,7 +29,7 @@ class CLI:
             elif choice == '5':
                 self.search_team()
             elif choice == '6':
-                print("The program has been exited")
+                print("Exiting the program.")
                 break
             else:
                 print("Invalid choice, please try again.")
