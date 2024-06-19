@@ -1,11 +1,13 @@
 # Ernest-Phase-3_PROJECT
 
-# Title SPORTS TEAM MANAGER
+# Title 
+SPORTS TEAM MANAGER
 
 
 ## Date 16/06/2024
 
-## By Ernest Musau
+## By 
+Ernest Musau
 
 # Description
 
